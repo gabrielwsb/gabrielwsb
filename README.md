@@ -1,5 +1,12 @@
 ## Prazer, meu nome é Gabriel 👋
 
+Sou Analista de Dados formado pela EBAC. Possuo habilidades em:
+* Python
+* SQL
+* Power BI
+
+Todos os meus projetos estão aqui no Github e também estão postado no Kaggle (link no perfil). Atualmente estou fazendo novos cursos para aprimorar habilidades e também desenvolvendo novos projetos.
+
 
 ### Detalhes
 
