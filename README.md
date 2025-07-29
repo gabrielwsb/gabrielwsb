@@ -5,7 +5,7 @@ Sou Analista de Dados formado pela EBAC. Possuo habilidades em:
 * SQL
 * Power BI
 
-Todos os meus projetos estão aqui no Github e também estão postado no Kaggle (link no perfil). Atualmente estou fazendo novos cursos para aprimorar habilidades e também desenvolvendo novos projetos.
+Todos os meus projetos estão aqui no Github e também estão postado no [Kaggle](https://www.kaggle.com/gabrielwsb) . Atualmente estou fazendo novos cursos para aprimorar habilidades e também desenvolvendo novos projetos.
 
 
 ### Detalhes
@@ -16,6 +16,6 @@ Todos os meus projetos estão aqui no Github e também estão postado no Kaggle 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwsb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatos
+### Contato
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabriel-bicudo-dados)
